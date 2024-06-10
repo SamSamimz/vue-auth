@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "e15a",
+      "username": "Samim",
+      "email": "samim@gmail.com",
+      "password": "$2a$10$SQJlLhBs7qtcYQ6i.8eN.OmOFJ5WLWz.51AYp94YgwHfLyEKhiiB6"
+    },
+    {
+      "id": "3ac3",
+      "username": "devil",
+      "email": "devil@gmail.com",
+      "password": "$2a$10$N4i8VVuyR6pnFHrjShNNVOQs54KvHIK1xtHNwBuQmSLcRLXHrwUdq"
+    },
+    {
+      "id": "2b2c",
+      "username": "obito",
+      "email": "obito@gmail.com",
+      "password": "$2a$10$vZcIlbzUbqU8TT1k6SMiyuFewywmq3h.X.v6f/qoIbEbQSjhVCsVS"
+    }
+  ]
+}
