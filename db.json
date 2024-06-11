@@ -18,5 +18,28 @@
       "email": "obito@gmail.com",
       "password": "$2a$10$vZcIlbzUbqU8TT1k6SMiyuFewywmq3h.X.v6f/qoIbEbQSjhVCsVS"
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "user_id": "2b2c",
+      "title": "dummy title",
+      "description": "dummy description for the very first post",
+      "date": "11-06-2024"
+    },
+    {
+      "id": 2,
+      "user_id": "2b2c",
+      "title": "dummy title",
+      "description": "dummy description for the very first post",
+      "date": "11-06-2024"
+    },
+    {
+      "id": "d803",
+      "title": "Unde odio maxime iur",
+      "user_id": "3ac3",
+      "description": "Id fugiat omnis et e",
+      "date": "1982-10-06"
+    }
   ]
 }
